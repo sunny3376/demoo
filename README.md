@@ -1,2 +1,2 @@
 # demoo
-this  for demo
+this is  for demo class.
